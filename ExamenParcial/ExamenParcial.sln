@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExamenParcialADS", "..\ExamenParcialADS\ExamenParcialADS.csproj", "{7732766D-B39F-4BF7-A59D-1812DFFE2A76}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pregunta06OCP", "..\Pregunta06OCP\Pregunta06OCP.csproj", "{35D1C3B3-1AFF-42EB-BDE9-E387E32BDA85}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7732766D-B39F-4BF7-A59D-1812DFFE2A76}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7732766D-B39F-4BF7-A59D-1812DFFE2A76}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7732766D-B39F-4BF7-A59D-1812DFFE2A76}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7732766D-B39F-4BF7-A59D-1812DFFE2A76}.Release|Any CPU.Build.0 = Release|Any CPU
+		{35D1C3B3-1AFF-42EB-BDE9-E387E32BDA85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35D1C3B3-1AFF-42EB-BDE9-E387E32BDA85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35D1C3B3-1AFF-42EB-BDE9-E387E32BDA85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35D1C3B3-1AFF-42EB-BDE9-E387E32BDA85}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FFEB6DF4-A60C-4750-A220-91CE4CA2DD3F}
+	EndGlobalSection
+EndGlobal
